@@ -1,0 +1,1394 @@
+{
+  "proximitySearch": false,
+  "hasErrors": false,
+  "boundingBoxSearch": true,
+  "resultsHash": "8781D27CA271E7D6C3AC9C1CE35F202D",
+  "results": {
+    "hitCount": 981,
+    "page": 3,
+    "pageCount": 33,
+    "pageSize": 30,
+    "fromRecord": 61,
+    "toRecord": 90,
+    "mapViewport": null,
+    "refinements": {},
+    "hits": [
+      {
+        "spu": "vrbo-13225-13225",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 1200
+        },
+        "bedrooms": 7,
+        "sleeps": 14,
+        "bathrooms": {
+          "full": 8,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Historic Maui House, 7 Unit Estate, Pool, Central Maui Location",
+        "geoCode": {
+          "latitude": 20.86489225,
+          "longitude": -156.31875542,
+          "exact": false
+        },
+        "detailPageUrl": "/vacation-rental/p13225vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/a41c1c3b-2331-46a2-b6b4-ec446ce70c3b.1.3",
+        "thumbnailCaption": "Makawao house rental - Salt water pool and spa for all guests",
+        "reviewCount": 1,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": null,
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "House",
+        "propertyId": "13225vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 1200,
+            "to": 1200
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/a41c1c3b-2331-46a2-b6b4-ec446ce70c3b.1.9",
+        "regions": [
+          "Maui",
+          "Makawao"
+        ]
+      },
+      {
+        "spu": "vrbo-574118-1121435",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 99
+        },
+        "bedrooms": 1,
+        "sleeps": 3,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "New beautiful cottage-1Bd/1Bth! $99nt! Walk to the beach. Book now!",
+        "geoCode": {
+          "latitude": 20.761565,
+          "longitude": -156.45315,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p574118vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/5ab59cac-454f-43b3-a78d-f1fdbf37dd68.1.3",
+        "thumbnailCaption": "Kihei cottage rental - Welcome to our newly built, custom designed, vacation hideaway!",
+        "reviewCount": 5,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": null,
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Cottage",
+        "propertyId": "574118vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 99,
+            "to": 99
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/5ab59cac-454f-43b3-a78d-f1fdbf37dd68.1.9",
+        "regions": [
+          "Maui",
+          "Kihei"
+        ]
+      },
+      {
+        "spu": "vrbo-644497-1192278",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 625
+        },
+        "bedrooms": 2,
+        "sleeps": 6,
+        "bathrooms": {
+          "full": 2,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Maui Westside Properties: Konea 639 - Two Bedroom Interior Courtyard Wraparound Lanai!",
+        "geoCode": {
+          "latitude": 20.9443777,
+          "longitude": -156.6898202,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p644497vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/7d6a0caa-07bb-4084-9702-cb0af01f2058.1.3",
+        "thumbnailCaption": "Kaanapali condo rental",
+        "reviewCount": 0,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 4,
+          "minStayHigh": 4
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "644497vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 625,
+            "to": 625
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/7d6a0caa-07bb-4084-9702-cb0af01f2058.1.9",
+        "regions": [
+          "Maui",
+          "Kaanapali"
+        ]
+      },
+      {
+        "spu": "vrbo-172377-172377",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 140
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 2,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Ocean, Garden and Pool Views in Kamaole Sands Resort",
+        "geoCode": {
+          "latitude": 20.71533966,
+          "longitude": -156.44584656,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p172377vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/bd94bfb5-226b-4dde-8f5b-e3b74d47f1b5.1.3",
+        "thumbnailCaption": "Kihei condo rental - Dining Room",
+        "reviewCount": 7,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 2,
+          "minStayHigh": 2
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "172377vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 140,
+            "to": 140
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/bd94bfb5-226b-4dde-8f5b-e3b74d47f1b5.1.9",
+        "regions": [
+          "Maui",
+          "Kihei"
+        ]
+      },
+      {
+        "spu": "vrbo-631800-1179581",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 125
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "New Listing - Direct Oceanview Quiet and Relaxing, new A/C, free parking &amp; WIFI",
+        "geoCode": {
+          "latitude": 20.9722379,
+          "longitude": -156.6793132,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p631800vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/59aa5e9a-8d93-4f94-ac67-5bc8559d78bc.1.3",
+        "thumbnailCaption": "Kahana condo rental - lanai overlooking garden and ocean",
+        "reviewCount": 6,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 3,
+          "minStayHigh": 3
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "631800vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 125,
+            "to": 125
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/59aa5e9a-8d93-4f94-ac67-5bc8559d78bc.1.9",
+        "regions": [
+          "Maui",
+          "Kahana"
+        ]
+      },
+      {
+        "spu": "vrbo-614093-1161410",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 161
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 2,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Maui Kamaole 1 BR Oceanview #J121 (25% OFF)",
+        "geoCode": {
+          "latitude": 20.7088844,
+          "longitude": -156.443329,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p614093vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/a4f5949f-b3cd-4bdb-9133-2d13fbd58c75.1.3",
+        "thumbnailCaption": "Wailea condo rental",
+        "reviewCount": 0,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 4,
+          "minStayHigh": 4
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "614093vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 161,
+            "to": 161
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/a4f5949f-b3cd-4bdb-9133-2d13fbd58c75.1.9",
+        "regions": [
+          "Maui",
+          "Wailea"
+        ]
+      },
+      {
+        "spu": "trips-3900055-4273575",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 200
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Find your Spot on Maui - Call one of our Vacation Consultants to help! Free Beach Setup in July Too!: Find Your Spot in Maui",
+        "geoCode": {
+          "latitude": 20.94490876,
+          "longitude": -156.69031373,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p3900055",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/b531b264-39c1-4058-a476-039ddbb52894.1.3",
+        "thumbnailCaption": "Kaanapali condo rental - Imagine yourself here - poolside in Maui.",
+        "reviewCount": 0,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 3,
+          "minStayHigh": 3
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "3900055",
+        "specialOffer": null,
+        "propertyManagerProfile": {
+          "name": "InvitedHome",
+          "logoUrl": "http://imagesus.homeaway.com/vd2/files/wvr/profiles/582611_use_1428001560.png",
+          "url": "/pm/InvitedHome-582611w"
+        },
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 200,
+            "to": 200
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/b531b264-39c1-4058-a476-039ddbb52894.1.9",
+        "regions": [
+          "Maui",
+          "Kaanapali"
+        ]
+      },
+      {
+        "spu": "vrbo-601847-1149164",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 173
+        },
+        "bedrooms": 2,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 2,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "2 Bedroom Ground Floor Condo at Maui Kamaole #F108 (25% OFF thru June)",
+        "geoCode": {
+          "latitude": 20.7088844,
+          "longitude": -156.443329,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p601847vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/0a388857-dfb4-4aa8-8624-4feef266d1c4.1.3",
+        "thumbnailCaption": "Wailea condo rental",
+        "reviewCount": 0,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 4,
+          "minStayHigh": 4
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "601847vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 173,
+            "to": 173
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/0a388857-dfb4-4aa8-8624-4feef266d1c4.1.9",
+        "regions": [
+          "Maui",
+          "Wailea"
+        ]
+      },
+      {
+        "spu": "trips-3002893-3313509",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": null,
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "$119 SPECIAL THRU AUGUST! Best views on MAUI! Romantic Sunsets! WOW!",
+        "geoCode": {
+          "latitude": 20.9569203,
+          "longitude": -156.6855269,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p3002893",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/38d548dd-da31-4518-8cc9-9abc7e3304c2.1.3",
+        "thumbnailCaption": "Honokowai condo rental - AMAZING VIEWS- REAL PHOTO, No Zoom, No editing... What you see, is what you get!",
+        "reviewCount": 5,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 4,
+          "minStayHigh": 4
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "3002893",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 139,
+            "to": 139
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/38d548dd-da31-4518-8cc9-9abc7e3304c2.1.9",
+        "regions": [
+          "Maui",
+          "Honokowai"
+        ]
+      },
+      {
+        "spu": "vrbo-669587-1217521",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 120
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Beautiful 1BD Condo Across from Kamaole 3 Beach Park (25% Disc)",
+        "geoCode": {
+          "latitude": 20.7107213,
+          "longitude": -156.4437817,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p669587vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/c5e35f1b-185d-4c41-869d-c2a68177d0a3.1.3",
+        "thumbnailCaption": "Wailea condo rental",
+        "reviewCount": 0,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 4,
+          "minStayHigh": 4
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "669587vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 120,
+            "to": 120
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/c5e35f1b-185d-4c41-869d-c2a68177d0a3.1.9",
+        "regions": [
+          "Maui",
+          "Wailea"
+        ]
+      },
+      {
+        "spu": "trips-3672027-3686444",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 291
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 0,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "AlohaAKU CoCoPalm Suite - Beachfront 1 Bedroom/Bath - LR - Full Kitchen - Lanai",
+        "geoCode": {
+          "latitude": 20.74623361,
+          "longitude": -156.45692121,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p3672027",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/42d0675c-3964-4e65-93f0-ee1aa4ec908b.1.3",
+        "thumbnailCaption": "Kihei estate rental - Enjoy your private lanai and some of the best sunsets ever!",
+        "reviewCount": 3,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 5,
+          "minStayHigh": 5
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Estate",
+        "propertyId": "3672027",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 279,
+            "to": 315
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/42d0675c-3964-4e65-93f0-ee1aa4ec908b.1.9",
+        "regions": [
+          "Maui",
+          "Kihei"
+        ]
+      },
+      {
+        "spu": "vrbo-723447-1271385",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 380
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Maui Kaanapali Villas #621",
+        "geoCode": {
+          "latitude": 20.93386021,
+          "longitude": -156.69209889,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p723447vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/08d7beed-343a-4f02-b70b-8983f108ad9b.1.3",
+        "thumbnailCaption": "Kaanapali condo rental",
+        "reviewCount": 0,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 3,
+          "minStayHigh": 3
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "723447vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 389,
+            "to": 389
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/08d7beed-343a-4f02-b70b-8983f108ad9b.1.9",
+        "regions": [
+          "Maui",
+          "Kaanapali"
+        ]
+      },
+      {
+        "spu": "vrbo-425429-1008479",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 395
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 2,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "7th NT FREE Summer Special WHALER on Kaanapali Beach #1060 1 BR/2BA OCEAN VIEW",
+        "geoCode": {
+          "latitude": 20.9227719,
+          "longitude": -156.694392,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p425429vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/404c0b27-8688-4199-8078-ad097639419a.1.3",
+        "thumbnailCaption": "Kaanapali condo rental - Incredible views of the ocean, Molokai and Black Rock.",
+        "reviewCount": 2,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 4,
+          "minStayHigh": 4
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "425429vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 395,
+            "to": 395
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/404c0b27-8688-4199-8078-ad097639419a.1.9",
+        "regions": [
+          "Maui",
+          "Kaanapali"
+        ]
+      },
+      {
+        "spu": "trips-3672021-3686438",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 291
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "AlohaAKU Bamboo Suite - Beachfront 1 Bedroom/Bath - LR - Full Kitchen - Lanai",
+        "geoCode": {
+          "latitude": 20.746113,
+          "longitude": -156.456712,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p3672021",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/73325fc7-bf19-4ab8-b375-b355e2bc8dbb.1.3",
+        "thumbnailCaption": "Kihei estate rental - View from your private lanai across the generous lawn and onto the beach.",
+        "reviewCount": 2,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 3,
+          "minStayHigh": 3
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Estate",
+        "propertyId": "3672021",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 279,
+            "to": 315
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/73325fc7-bf19-4ab8-b375-b355e2bc8dbb.1.9",
+        "regions": [
+          "Maui",
+          "Kihei"
+        ]
+      },
+      {
+        "spu": "vrbo-628176-1175957",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 90
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "LEGAL Maui Hideway-Northshore Beaches, Surf, Windsurf, SUP, &amp; Hike",
+        "geoCode": {
+          "latitude": 20.928468,
+          "longitude": -156.317535,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p628176vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/8251aa62-1f06-415d-ad8a-a2847d41431f.1.3",
+        "thumbnailCaption": "Haiku apartment rental",
+        "reviewCount": 1,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 5,
+          "minStayHigh": 5
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Apartment",
+        "propertyId": "628176vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 90,
+            "to": 90
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/8251aa62-1f06-415d-ad8a-a2847d41431f.1.9",
+        "regions": [
+          "Maui",
+          "Haiku"
+        ]
+      },
+      {
+        "spu": "vrbo-501096-1084277",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 276
+        },
+        "bedrooms": 1,
+        "sleeps": 3,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "The &quot;JEWEL&quot; of the Royal Kahana OceanFront Luxury!",
+        "geoCode": {
+          "latitude": 20.9722379,
+          "longitude": -156.6793132,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p501096vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/8e3b0b75-4755-44bf-9102-8f3cc87d6f22.1.3",
+        "thumbnailCaption": "Kahana condo rental - Panoramic Ocean View from the living room of RK 409 - You could almost dive in from this high end luxury ocean front suite. A view from every room!",
+        "reviewCount": 16,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 3,
+          "minStayHigh": 3
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "501096vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 278,
+            "to": 278
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/8e3b0b75-4755-44bf-9102-8f3cc87d6f22.1.9",
+        "regions": [
+          "Maui",
+          "Kahana"
+        ]
+      },
+      {
+        "spu": "trips-3961572-4347910",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 175
+        },
+        "bedrooms": 0,
+        "sleeps": 8,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Village by the Ocean",
+        "geoCode": {
+          "latitude": 20.75796356,
+          "longitude": -156.4591501,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p3961572",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/d23890ed-f525-4662-b568-0ebeafe64817.1.3",
+        "thumbnailCaption": "Kihei condo rental - Beach in front of Resort",
+        "reviewCount": 1,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 5,
+          "minStayHigh": 5
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "3961572",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 175,
+            "to": 175
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/d23890ed-f525-4662-b568-0ebeafe64817.1.9",
+        "regions": [
+          "Maui",
+          "Kihei"
+        ]
+      },
+      {
+        "spu": "vrbo-40839-40839",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 450
+        },
+        "bedrooms": 1,
+        "sleeps": 2,
+        "bathrooms": {
+          "full": 2,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "The Whaler - Luxurious Suite Adjacent the Oceanfront!",
+        "geoCode": {
+          "latitude": 20.92348273,
+          "longitude": -156.69488506,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p40839vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/8aa6d517-dd65-4ce6-9104-c826aad85eb2.1.3",
+        "thumbnailCaption": "Kaanapali condo rental - Outstanding location",
+        "reviewCount": 1,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 6,
+          "minStayHigh": 6
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "40839vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 450,
+            "to": 450
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/8aa6d517-dd65-4ce6-9104-c826aad85eb2.1.9",
+        "regions": [
+          "Maui",
+          "Kaanapali"
+        ]
+      },
+      {
+        "spu": "trips-7098834-4098834",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 399
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "$349 Luxury Maui Beach Condo (sleeps 4) Save $200/Night",
+        "geoCode": {
+          "latitude": 20.948219,
+          "longitude": -156.69067,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p7098834",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/fcd8c418-c167-4341-892d-d103bf54361d.1.3",
+        "thumbnailCaption": "Kaanapali condo rental",
+        "reviewCount": 7,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": null,
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "7098834",
+        "specialOffer": {
+          "start": "2015-06-10",
+          "end": "2016-06-08",
+          "title": "Maui Luxury Beach Resort from $299 Voted BEST Place to Stay"
+        },
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 399,
+            "to": 399
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/fcd8c418-c167-4341-892d-d103bf54361d.1.9",
+        "regions": [
+          "Maui",
+          "Kaanapali"
+        ]
+      },
+      {
+        "spu": "vrbo-586339-1133656",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": null,
+        "bedrooms": 3,
+        "sleeps": 8,
+        "bathrooms": {
+          "full": 3,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "VOTED #1 DELUXE OCEAN PANORAMIC VIEW. TOP ROW/CENTER. GRAND WAILEA PRIVILEGES",
+        "geoCode": {
+          "latitude": 20.6811946,
+          "longitude": -156.4392629,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p586339vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/71123e76-a94e-4079-be80-47e50392689a.1.4",
+        "thumbnailCaption": "Wailea villa rental - 75-4 OFFERS THE BEST VIEWS FOR THE MAUI SUNSET",
+        "reviewCount": 1,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": null,
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Villa",
+        "propertyId": "586339vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/71123e76-a94e-4079-be80-47e50392689a.1.6",
+        "regions": [
+          "Maui",
+          "Wailea"
+        ]
+      },
+      {
+        "spu": "vrbo-628014-1175795",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 100
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "LEGAL Maui Hideway-Northshore Beaches, Surf, Windsurf, SUP, &amp; Hike",
+        "geoCode": {
+          "latitude": 20.928468,
+          "longitude": -156.317535,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p628014vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/ae90c9dd-1a8e-4d49-81e1-bde2aba6a498.1.3",
+        "thumbnailCaption": "Haiku apartment rental",
+        "reviewCount": 0,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 5,
+          "minStayHigh": 5
+        },
+        "acceptsHomeAwayPayments": true,
+        "onlineBookable": true,
+        "clearstayBookable": false,
+        "propertyType": "Apartment",
+        "propertyId": "628014vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 100,
+            "to": 100
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/ae90c9dd-1a8e-4d49-81e1-bde2aba6a498.1.9",
+        "regions": [
+          "Maui",
+          "Haiku"
+        ]
+      },
+      {
+        "spu": "vrbo-451017-1034128",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 141
+        },
+        "bedrooms": 0,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "$99 per night OceanFront Studio Royal Kahana Summer SPECIAL",
+        "geoCode": {
+          "latitude": 20.9722379,
+          "longitude": -156.6793132,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p451017vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/1a3bac31-b069-4811-a136-a009858aa3e5.1.3",
+        "thumbnailCaption": "Kahana condo rental - Brand new Ocean View Condo",
+        "reviewCount": 12,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 3,
+          "minStayHigh": 3
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "451017vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 143,
+            "to": 143
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/1a3bac31-b069-4811-a136-a009858aa3e5.1.9",
+        "regions": [
+          "Maui",
+          "Kahana"
+        ]
+      },
+      {
+        "spu": "vrbo-590878-1138195",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 1100
+        },
+        "bedrooms": 4,
+        "sleeps": 10,
+        "bathrooms": {
+          "full": 3,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "The Best Views in Maui!! ~ 4 Bedrooms - Private Pool - Giant Lawn!",
+        "geoCode": {
+          "latitude": 20.8473751,
+          "longitude": -156.6350566,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p590878vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/894a1059-248c-4403-aa1a-50f2d79b3e72.1.3",
+        "thumbnailCaption": "Launiupoko villa rental",
+        "reviewCount": 2,
+        "averageRatingClass": null,
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 5,
+          "minStayHigh": 5
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Villa",
+        "propertyId": "590878vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": false,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 1100,
+            "to": 1100
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/894a1059-248c-4403-aa1a-50f2d79b3e72.1.9",
+        "regions": [
+          "Maui",
+          "Launiupoko"
+        ]
+      },
+      {
+        "spu": "vrbo-190190-190190",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 400
+        },
+        "bedrooms": 2,
+        "sleeps": 6,
+        "bathrooms": {
+          "full": 2,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Oceanfront-Private, Gated, on White Sand Beach-Plumeria Suite",
+        "geoCode": {
+          "latitude": 20.785,
+          "longitude": -156.46556,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p190190vb",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/c2ce7c25-d929-4ca8-ab60-d1859551942a.1.3",
+        "thumbnailCaption": "Kihei condo rental - Plumeria Suite Master Bedroom",
+        "reviewCount": 3,
+        "averageRatingClass": "rating-4-5",
+        "clevacances": 0,
+        "minStayRange": {
+          "minStayLow": 3,
+          "minStayHigh": 3
+        },
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "190190vb",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 400,
+            "to": 400
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/c2ce7c25-d929-4ca8-ab60-d1859551942a.1.9",
+        "regions": [
+          "Maui",
+          "Kihei"
+        ]
+      },
+      {
+        "spu": "trips-336964-3127376",
+        "rangePrice": null,
+        "fromPrice": null,
+        "averagePrice": {
+          "currencyUnits": "USD",
+          "periodType": "NIGHTLY",
+          "currencySymbol": "$",
+          "value": 125
+        },
+        "bedrooms": 1,
+        "sleeps": 4,
+        "bathrooms": {
+          "full": 1,
+          "half": 0,
+          "toiletOnly": 0
+        },
+        "headline": "Sugar Beach Maui - Direct Ocean Front best value! best bed!",
+        "geoCode": {
+          "latitude": 20.7791066,
+          "longitude": -156.461109,
+          "exact": true
+        },
+        "detailPageUrl": "/vacation-rental/p336964",
+        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/1238534d-a1ca-425f-a0df-0ff5ffa6cfe9.1.3",
+        "thumbnailCaption": "Kihei condo rental - Best Maui View! Direct Oceanfront!",
+        "reviewCount": 18,
+        "averageRatingClass": "rating-5",
+        "clevacances": 0,
+        "minStayRange": null,
+        "acceptsHomeAwayPayments": false,
+        "onlineBookable": false,
+        "clearstayBookable": false,
+        "propertyType": "Condo",
+        "propertyId": "336964",
+        "specialOffer": null,
+        "propertyManagerProfile": null,
+        "ownerManaged": true,
+        "ratesSummary": [
+          {
+            "currencyUnits": "USD",
+            "periodType": "NIGHTLY",
+            "currencySymbol": "$",
+            "from": 125,
+            "to": 125
+          }
+        ],
+        "galleryUrl": "http://imagesus.homeaway.com/mda01/1238534d-a1ca-425f-a0df-0ff5ffa6cfe9.1.9",
+        "regions": [
+          "Maui",
+          "Kihei"
+        ]
+      }
+    ]
+  },
+  "reqId": "1"
+}
