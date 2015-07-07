@@ -2,18 +2,16 @@ module.exports = {
     entry: "./src/app.jsx",
     output: {
         path: __dirname,
-        filename: "fng.js"
+        filename: "build/fng.js"
     },
     module: {
         loaders: [
             { test: /\.css$/, loader: "style!css" },
-             {
-                //tell webpack to use jsx-loader for all *.jsx files
+            {
                 test: /\.jsx$/,
                 loader: 'babel?loose=all'
             },
-             {
-                //tell webpack to use jsx-loader for all *.jsx files
+            {
                 test: /\.js/,
                 loader: 'babel?loose=all'
             },
