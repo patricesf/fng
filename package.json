@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "fng.js",
+  "repository": "https://github.com/patricesf/fng.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --progress --colors --port 8090",

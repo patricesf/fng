@@ -14,59 +14,6 @@
     "refinements": {},
     "hits": [
       {
-        "spu": "vrbo-13225-13225",
-        "rangePrice": null,
-        "fromPrice": null,
-        "averagePrice": {
-          "currencyUnits": "USD",
-          "periodType": "NIGHTLY",
-          "currencySymbol": "$",
-          "value": 1200
-        },
-        "bedrooms": 7,
-        "sleeps": 14,
-        "bathrooms": {
-          "full": 8,
-          "half": 0,
-          "toiletOnly": 0
-        },
-        "headline": "Historic Maui House, 7 Unit Estate, Pool, Central Maui Location",
-        "geoCode": {
-          "latitude": 20.86489225,
-          "longitude": -156.31875542,
-          "exact": false
-        },
-        "detailPageUrl": "/vacation-rental/p13225vb",
-        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/a41c1c3b-2331-46a2-b6b4-ec446ce70c3b.1.3",
-        "thumbnailCaption": "Makawao house rental - Salt water pool and spa for all guests",
-        "reviewCount": 1,
-        "averageRatingClass": null,
-        "clevacances": 0,
-        "minStayRange": null,
-        "acceptsHomeAwayPayments": true,
-        "onlineBookable": true,
-        "clearstayBookable": false,
-        "propertyType": "House",
-        "propertyId": "13225vb",
-        "specialOffer": null,
-        "propertyManagerProfile": null,
-        "ownerManaged": false,
-        "ratesSummary": [
-          {
-            "currencyUnits": "USD",
-            "periodType": "NIGHTLY",
-            "currencySymbol": "$",
-            "from": 1200,
-            "to": 1200
-          }
-        ],
-        "galleryUrl": "http://imagesus.homeaway.com/mda01/a41c1c3b-2331-46a2-b6b4-ec446ce70c3b.1.9",
-        "regions": [
-          "Maui",
-          "Makawao"
-        ]
-      },
-      {
         "spu": "vrbo-574118-1121435",
         "rangePrice": null,
         "fromPrice": null,
@@ -844,62 +791,6 @@
         "regions": [
           "Maui",
           "Haiku"
-        ]
-      },
-      {
-        "spu": "vrbo-501096-1084277",
-        "rangePrice": null,
-        "fromPrice": null,
-        "averagePrice": {
-          "currencyUnits": "USD",
-          "periodType": "NIGHTLY",
-          "currencySymbol": "$",
-          "value": 276
-        },
-        "bedrooms": 1,
-        "sleeps": 3,
-        "bathrooms": {
-          "full": 1,
-          "half": 0,
-          "toiletOnly": 0
-        },
-        "headline": "The &quot;JEWEL&quot; of the Royal Kahana OceanFront Luxury!",
-        "geoCode": {
-          "latitude": 20.9722379,
-          "longitude": -156.6793132,
-          "exact": true
-        },
-        "detailPageUrl": "/vacation-rental/p501096vb",
-        "thumbnailUrl": "http://imagesus.homeaway.com/mda01/8e3b0b75-4755-44bf-9102-8f3cc87d6f22.1.3",
-        "thumbnailCaption": "Kahana condo rental - Panoramic Ocean View from the living room of RK 409 - You could almost dive in from this high end luxury ocean front suite. A view from every room!",
-        "reviewCount": 16,
-        "averageRatingClass": "rating-5",
-        "clevacances": 0,
-        "minStayRange": {
-          "minStayLow": 3,
-          "minStayHigh": 3
-        },
-        "acceptsHomeAwayPayments": false,
-        "onlineBookable": false,
-        "clearstayBookable": false,
-        "propertyType": "Condo",
-        "propertyId": "501096vb",
-        "specialOffer": null,
-        "propertyManagerProfile": null,
-        "ownerManaged": false,
-        "ratesSummary": [
-          {
-            "currencyUnits": "USD",
-            "periodType": "NIGHTLY",
-            "currencySymbol": "$",
-            "from": 278,
-            "to": 278
-          }
-        ],
-        "galleryUrl": "http://imagesus.homeaway.com/mda01/8e3b0b75-4755-44bf-9102-8f3cc87d6f22.1.9",
-        "regions": [
-          "Maui",
-          "Kahana"
         ]
       },
       {

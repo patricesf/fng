@@ -12,6 +12,12 @@ module.exports = {
                 test: /\.jsx$/,
                 loader: 'babel?loose=all'
             },
+             {
+                //tell webpack to use jsx-loader for all *.jsx files
+                test: /\.js/,
+                loader: 'babel?loose=all'
+            },
+
             { test: /\.styl$/, loader: 'style-loader!css-loader!stylus-loader' }
         ]
     }
